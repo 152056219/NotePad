@@ -1,0 +1,6 @@
+E:\VS 2010 程序\Notepad\Notepad\bin\Debug\Notepad.exe
+E:\VS 2010 程序\Notepad\Notepad\bin\Debug\Notepad.pdb
+E:\VS 2010 程序\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+E:\VS 2010 程序\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
+E:\2017（下）\C#面向对象程序设计\Notepad\Notepad\obj\x86\Debug\Notepad.exe
+E:\2017（下）\C#面向对象程序设计\Notepad\Notepad\obj\x86\Debug\Notepad.pdb
