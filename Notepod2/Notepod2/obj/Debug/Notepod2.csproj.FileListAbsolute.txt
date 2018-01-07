@@ -1,0 +1,7 @@
+C:\Users\岩\source\repos\Notepod2\Notepod2\bin\Debug\Notepod2.exe.config
+C:\Users\岩\source\repos\Notepod2\Notepod2\bin\Debug\Notepod2.exe
+C:\Users\岩\source\repos\Notepod2\Notepod2\bin\Debug\Notepod2.pdb
+C:\Users\岩\source\repos\Notepod2\Notepod2\obj\Debug\Notepod2.csprojResolveAssemblyReference.cache
+C:\Users\岩\source\repos\Notepod2\Notepod2\obj\Debug\Notepod2.csproj.CoreCompileInputs.cache
+C:\Users\岩\source\repos\Notepod2\Notepod2\obj\Debug\Notepod2.exe
+C:\Users\岩\source\repos\Notepod2\Notepod2\obj\Debug\Notepod2.pdb
