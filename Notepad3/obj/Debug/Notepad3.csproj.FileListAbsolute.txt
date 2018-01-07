@@ -1,0 +1,7 @@
+C:\Users\岩\source\repos\Notepad3\Notepad3\bin\Debug\Notepad3.exe.config
+C:\Users\岩\source\repos\Notepad3\Notepad3\bin\Debug\Notepad3.exe
+C:\Users\岩\source\repos\Notepad3\Notepad3\bin\Debug\Notepad3.pdb
+C:\Users\岩\source\repos\Notepad3\Notepad3\obj\Debug\Notepad3.csprojResolveAssemblyReference.cache
+C:\Users\岩\source\repos\Notepad3\Notepad3\obj\Debug\Notepad3.csproj.CoreCompileInputs.cache
+C:\Users\岩\source\repos\Notepad3\Notepad3\obj\Debug\Notepad3.exe
+C:\Users\岩\source\repos\Notepad3\Notepad3\obj\Debug\Notepad3.pdb
