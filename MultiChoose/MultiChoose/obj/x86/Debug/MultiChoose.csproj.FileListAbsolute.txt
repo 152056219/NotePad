@@ -1,0 +1,24 @@
+E:\MultiChoose\MultiChoose\bin\Debug\MultiChoose.exe
+E:\MultiChoose\MultiChoose\bin\Debug\MultiChoose.pdb
+E:\MultiChoose\MultiChoose\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.Form1.resources
+E:\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.Properties.Resources.resources
+E:\MultiChoose\MultiChoose\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\MultiChoose\MultiChoose\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.exe
+E:\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.pdb
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\bin\Debug\MultiChoose.exe
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\bin\Debug\MultiChoose.pdb
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.Form1.resources
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.Properties.Resources.resources
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.csproj.GenerateResource.Cache
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.csproj.CoreCompileInputs.cache
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.exe
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.pdb
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.exe
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.pdb
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\MultiChoose\MultiChoose\bin\Debug\MultiChoose.exe
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\MultiChoose\MultiChoose\bin\Debug\MultiChoose.pdb
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.Form1.resources
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\MultiChoose\MultiChoose\obj\x86\Debug\MultiChoose.csproj.GenerateResource.Cache

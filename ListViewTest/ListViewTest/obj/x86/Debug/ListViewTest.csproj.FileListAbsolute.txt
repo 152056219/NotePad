@@ -1,0 +1,28 @@
+E:\ListViewTest\ListViewTest\bin\Debug\ListViewTest.exe
+E:\ListViewTest\ListViewTest\bin\Debug\ListViewTest.pdb
+E:\ListViewTest\ListViewTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Form1.resources
+E:\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Properties.Resources.resources
+E:\ListViewTest\ListViewTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ListViewTest\ListViewTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.exe
+E:\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.pdb
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\bin\Debug\ListViewTest.exe
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\bin\Debug\ListViewTest.pdb
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Form1.resources
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Properties.Resources.resources
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.csproj.GenerateResource.Cache
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.csproj.CoreCompileInputs.cache
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.exe
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.pdb
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Form2.resources
+D:\大文件\学习夹\_大学学习\大三-上\C#学习\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.exe
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.pdb
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\bin\Debug\ListViewTest.exe
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\bin\Debug\ListViewTest.pdb
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Form1.resources
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Form2.resources
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.Properties.Resources.resources
+C:\Users\Administrator\Desktop\C\Users\Administrator\Documents\Tencent Files\2574805936\FileRecv\2017-12\ListViewTest\ListViewTest\obj\x86\Debug\ListViewTest.csproj.GenerateResource.Cache
